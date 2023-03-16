@@ -1,4 +1,4 @@
 {
-    "endpoint":"",
+    "endpoint":"https://your_mailcow_instance/api/v1/add/alias",
     "api_key":""
 }
