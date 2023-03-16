@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+  </head>
+
+  <body>
+    <form>
+      <label for="forwardto">Forward emails to: </label>
+      <input
+        type="text"
+        id="forwardto"
+        name="forwardto"
+        placeholder="real@email.com"
+      /><br />
+
+      <label for="mailcow_api">Mailcow API endpoint: </label>
+      <input
+        type="text"
+        id="mailcow_api"
+        name="mailcow_api"
+        placeholder="http://localhost/alias"
+      /><br />
+
+      <label for="alias_domain">Alias domain: </label>
+      <input
+        type="text"
+        id="alias_domain"
+        name="alias_domain"
+        placeholder="aliases.com"
+      /><br />
+
+      <label for="alias_domain2">Secondary alias domain: </label>
+      <input
+        type="text"
+        id="alias_domain2"
+        name="alias_domain2"
+        placeholder="aliases2.com"
+      /><br />
+
+      <button type="submit">Save</button>
+    </form>
+    <script src="options.js"></script>
+  </body>
+</html>
