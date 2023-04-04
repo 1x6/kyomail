@@ -1,6 +1,6 @@
 # kyomail
 A firefox extension which allows you to quickly &amp; easily generate email aliases for specific sites.<br>
-Using a different email alias for each site allows you to retain your privacy, without having to resort to using tempmails or seperate inboxes.
+Using a different email alias for each site allows you to retain your privacy, without having to resort to using tempmails or all your emails being in separate inboxes.
 
 ## Getting started
 
