@@ -4,9 +4,7 @@ Meant for use with an instance of Mailcow, but can be modified for other email s
 
 ## Getting started
 
-- In the Mailcow settings, enable the API
-- Create a new API key
-- Enter these values into `proxy_config.json`
+- Set up catch-all on your mail domain.
 - Install the extension from this source or [Mozilla Addons](https://addons.mozilla.org/en-GB/firefox/addon/kyomail/)
 - Run `proxy.py`
 - Edit the extension options in `about:addons`
