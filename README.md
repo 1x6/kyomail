@@ -6,7 +6,6 @@ Meant for use with an instance of Mailcow, but can be modified for other email s
 
 - Set up catch-all on your mail domain. Can be done for free with [Cloudflare Email Routing](https://www.cloudflare.com/en-us/products/email-routing/)
 - Install the extension from this source or [Mozilla Addons](https://addons.mozilla.org/en-GB/firefox/addon/kyomail/)
-- Run `proxy.py`
 - Edit the extension options in `about:addons`
 
 
