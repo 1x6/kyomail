@@ -1,0 +1,44 @@
+{
+  "manifest_version": 2,
+  "name": "kyomail",
+  "version": "1.1",
+
+  "description": "Allows you to easily generate email aliases.",
+
+  "icons": {
+    "48": "icons/icon-48.png",
+    "96": "icons/icon-96.png"
+  },
+
+  "content_scripts": [
+    {
+      "js": ["kyomail.js"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+
+  "background": {
+    "scripts": ["background.js", "background2.js"]
+  },
+
+  "browser_action": {
+    "default_icon": {
+      "48": "icons/icon-48.png",
+      "96": "icons/icon-96.png"
+    },
+    "default_title": "kyomail"
+  },
+
+  "permissions": ["activeTab", "contextMenus", "tabs", "webRequest", "storage"],
+
+  "options_ui": {
+    "page": "options.html",
+    "browser_style": true
+  },
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "kyomail@xeny.uk"
+    }
+  }
+}
