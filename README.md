@@ -4,7 +4,7 @@ Using a different email alias for each site allows you to retain your privacy, w
 
 ## Installation
 
-- Set up catch-all on your mail domain. Can be done for free with [Cloudflare Email Routing](https://www.cloudflare.com/en-us/products/email-routing/)
+- Set up a catch-all on your mail domain. Can be done for free with [Cloudflare Email Routing](https://www.cloudflare.com/en-us/products/email-routing/)
 
 ### Firefox
 
