@@ -23,3 +23,4 @@ Using a different email alias for each site allows you to retain your privacy, w
 ## Usage
 
 ![firefox_PJLfvvE8od](https://user-images.githubusercontent.com/44981148/225718394-b0ff7909-d713-4461-907e-58c82d093d0e.gif)
+![chrome](https://r2.e-z.host/97a7634a-8739-4b7e-9255-b966448995c4/iq1kbcmh.gif)
